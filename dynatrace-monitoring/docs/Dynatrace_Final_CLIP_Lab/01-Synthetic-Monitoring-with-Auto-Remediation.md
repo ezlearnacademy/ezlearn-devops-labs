@@ -4,6 +4,8 @@ This lab walks you through setting up a **Closed-Loop Incident Process (CLIP)** 
 
 Your target: **[http://ezlearn.mitechnology.org:8080](http://ezlearn.mitechnology.org:8080)** (a live Tomcat web app)
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f39c0dad-74ee-48ef-acac-920dc2118413" />
+
 ---
 
 ## ✅ Step 1: Deploy and Monitor Your App
